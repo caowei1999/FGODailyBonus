@@ -25,3 +25,4 @@ public class CertificateExtractor {
 	Console.WriteLine(Encoding.UTF8.GetString(result));
   }
 }
+
